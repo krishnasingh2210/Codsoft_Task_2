@@ -12,9 +12,7 @@ I designed and developed a responsive **Landing Page** using **HTML and CSS**.
 ## Tech Stack
 - HTML5  
 - CSS3  
-
-## Demo
-[Live Demo Link or GitHub Pages Link]  
+ 
 
 ## Author
 Krishna Singh  
